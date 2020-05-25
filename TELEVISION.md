@@ -560,6 +560,20 @@
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/master.m3u8) | [web](http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision-internacional) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | - | - |
 | TV Cultura Brasil | [m3u8 # BR](https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/master.m3u8) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | - |
 | Monterrey TV | [m3u8](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | [web](https://www.multimedios.com/) | [logo](https://image.multimedios.com/sites/all/themes/multimedioslaguna/images/logo-c6-w.png) | - | - |
+| Teleamazonas TV | [m3u8](http://173.212.247.99/hls/tvec4.m3u8) | [web](www.teleamazonas.com/teleamazonas-en-vivo) | [logo](http://www.teleamazonas.com/wp-content/uploads/2020/05/logoTA119X90.png) | - | - |
+| Ecuavisa HD | [m3u8](http://173.212.247.99/hls/tvec2.m3u8) | [web](https://www.ecuavisa.com/envivo) | [logo](https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-logo-footer-responsive.png) | - | - |
+| Gama TV | [m3u8](http://173.212.247.99/hls/tvec1.m3u8) | [web](http://www.gamavision.com.ec/) | [logo](https://es.wikipedia.org/wiki/Gamavisi%C3%B3n#/media/Archivo:Gamavisi%C3%B3n2018new.png) | - | - |
+| CGTN Español | [m3u8](http://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://espanol.cgtn.com/en-directo) | [logo](https://uies.cgtn.com/w/images/icon/logo@3x.png) | - | - |
+| DW Español | [m3u8](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | [logo](https://www.dw.com/cssi/dwlogo-print.gif) | - | - |
+| RT Español | [m3u8](https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8) | [web](https://actualidad.rt.com/en_vivo) | [logo](https://actualidad.rt.com/static/img/head/apple-touch-icon-144x144-precomposed.png) | - | - |
+| ADN 40 | [m3u8](https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8) | [web](https://live.adn40.mx/) | [logo](https://live.adn40.mx/apple-touch-icon.png) | - | - |
+| Multimedios Televisión CDMX | [m3u8](https://mdstrm.com/live-stream/5b80728b0a2ea475ba2359a5) | [web](https://www.multimedios.com/video/) | [logo](https://image.multimedios.com/sites/all/themes/multimedioslaguna/images/logo-c6-w.svg) | - | - |
+| Milenio TV | [m3u8](http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8) | [web](https://www.milenio.com/mileniotv) | [logo](https://www.milenio.com/bundles/camusassets/images/logo-milenio-v2.png) | - | - |
+| Telemax | [m3u8](http://s5.mexside.net:1935/telemax/telemax/.m3u8) | [web](https://telemax.com.mx/envivo.php) | [logo](https://telemax.com.mx/wp-content/themes/multinews/images/logo.png) | - | - |
+| 13 Max | [m3u8](http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8) | [web](http://13maxtv.com/new/) | [logo](http://www.13maxtv.com/new/img/logo13.png) | - | - |
+| Hechos TV | [m3u8](http://37.187.7.106/hechostv/live.m3u8) | [web](https://www.tvazteca.com/aztecanoticias/videos/envivo) | [logo](https://tvazteca.brightspotcdn.com/dims4/default/3be71e0/2147483647/strip/true/crop/242x186+0+0/resize/121x93!/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F54%2F26%2F4405835d4836845f4016ac84c73d%2Fhechos-1.png) | - | - |
+| UCSG | [m3u8](http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8) | [web](http://ecuastream.com/medios/video/ucsg/web.php) | [logo](http://ucsgrtv.com/tv/images/logo.png) | - | - |
+| Corazon Llanero | [m3u8](http://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/fluxustv.m3u8) | [web](https://corazonllanero.com/es/) | [logo](https://corazonllanero.com/main/static/img/isotipocoll.png) | - | - 
 
 ## Int. Asia
 
