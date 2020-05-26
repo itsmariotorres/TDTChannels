@@ -25,7 +25,7 @@
 | OT 24h | [m3u8 # HD](https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590534921/ei/qU7NXsGOMbK0xN8Pgem-mAo/ip/85.55.120.53/id/Lt0Hnm_h32Q.2/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,ctier,playlist_duration,manifest_duration,maudio,hightc,vprv,go,itag,playlist_type/sig/AOq0QJ8wRgIhAKK6dv62YesERPC5D4ZR4SU_W2fQ6TMBJWgSCr87HLkoAiEAlNYoK29Dx0cTqsbeITT9d-WUqZ_6X7raGESrviuAsFE=/file/index.m3u8) | [web](https://www.rtve.es/television/ot/directo-academia/) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=200&height=200) | - | EMB |
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
-| DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
+| DKISS | [m3u8 # HD](http://84.39.180.106:9981/stream/channelid/1807585110) | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
 
 ## Informativos
 
