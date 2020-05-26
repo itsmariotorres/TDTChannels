@@ -4,7 +4,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
+| La 1 | [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8 # 1](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
 | La 2 | [m3u8](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
 | Antena 3 | [m3u8 # GEO](https://livestartover.atresmedia.com/geoantena3/bitrate_4.m3u8) - [m3u8](https://livestartover-i.akamaized.net/antena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | - |
 | Cuatro | [m3u8 # HD](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [m3u8 # SD](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | NONAV,CODEC |
